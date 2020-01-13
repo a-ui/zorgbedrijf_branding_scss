@@ -1,0 +1,7 @@
+**/.*
+gulp
+Gulpfile.js
+docs
+*.yml
+*.js
+*.md
