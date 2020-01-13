@@ -1,4 +1,4 @@
-# Zorgbedrijf Branding
+# Zorgbedrijf Antwerpen Branding
 
 This project contains Zorgbedrijf's digital styling and styling guidelines. It is the starting point to style your app or website for Zorgbedrijf.
 
