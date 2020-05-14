@@ -7,13 +7,13 @@ This project contains Zorgbedrijf's digital styling and styling guidelines. It i
 In its simplest form you can just include the following line in the `<head>` section of your app.
 
 ```
-<link rel="stylesheet" href="https://cdn.antwerpen.be/zorgbedrijf_branding_scss/1.0.0/main.min.css">
+<link rel="stylesheet" href="https://cdn.antwerpen.be/zorgbedrijf_branding_scss/1.1.0/main.min.css">
 ```
 
 You can even import it directly in your (S)CSS:
 
 ```
-@import url("https://cdn.antwerpen.be/zorgbedrijf_branding_scss/1.0.0/main.min.css");
+@import url("https://cdn.antwerpen.be/zorgbedrijf_branding_scss/1.1.0/main.min.css");
 ```
 
 > We adopt semantic versioning. If you want to use another version of the Zorgbedrijf Branding you can do so by adjusting the version in the URL address. See the changelog for all available versions.
