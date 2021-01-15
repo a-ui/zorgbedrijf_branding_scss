@@ -20,10 +20,17 @@
     }
   ],
   "license": "MIT",
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "Firefox ESR",
+    "not dead",
+    "IE 11"
+  ],
   "devDependencies": {
-    "@a-ui/core": "^4.0.0",
+    "@a-ui/core": "^4.3.0",
     "autoprefixer": "^9.5.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.13",
     "cssnano": "^4.1.10",
     "del": "^5.1.0",
     "glob": "^7.1.4",
@@ -31,7 +38,7 @@
     "gulp-consolidate": "^0.2.0",
     "gulp-css-url-adjuster": "^0.2.3",
     "gulp-header-license": "^1.0.9",
-    "gulp-iconfont": "^10.0.2",
+    "gulp-iconfont": "^10.0.3",
     "gulp-imagemin": "^5.0.3",
     "gulp-merge-media-queries": "^0.2.1",
     "gulp-nunjucks": "^5.0.0",
@@ -43,7 +50,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-watch": "^5.0.1",
     "list-selectors": "^2.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.20",
     "merge-stream": "^2.0.0",
     "sass-vars-to-js": "^0.8.7",
     "yargs": "^13.2.4"
